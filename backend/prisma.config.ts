@@ -1,4 +1,21 @@
 import { config } from 'dotenv';
-import { defineConfig } from 'prisma/config';
-config({ path: '../.env', quiet: true });
-export default defineConfig({ schema: 'prisma/schema.prisma', migrations: { path: 'prisma/migrations', seed: 'tsx prisma/seed.ts' }, datasource: { url: process.env.DATABASE_URL ?? 'postgresql://invalid:invalid@127.0.0.1:55432/cozzy' } });
+import { defineConfig, env } from 'prisma/config';
+import { fileURLToPath } from 'node:url';
+
+config({
+  path: fileURLToPath(new URL('../.env', import.meta.url)),
+  quiet: true,
+});
+
+export default defineConfig({
+  schema: 'prisma/schema.prisma',
+
+  migrations: {
+    path: 'prisma/migrations',
+    seed: 'tsx prisma/seed.ts',
+  },
+
+  datasource: {
+    url: env('DATABASE_URL'),
+  },
+});
