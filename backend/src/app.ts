@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import helmet from "helmet";
+import * as helmetModule from "helmet";
 import cookieParser from "cookie-parser";
 import { rateLimit } from "express-rate-limit";
 import { pinoHttp } from "pino-http";
@@ -34,7 +34,7 @@ export function createApp() {
     }),
   );
   app.use(
-    helmet({
+  helmetModule.default({
       contentSecurityPolicy: {
         directives: {
           defaultSrc: ["'self'"],
