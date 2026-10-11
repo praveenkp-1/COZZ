@@ -1,0 +1,1522 @@
+[
+  {
+    "name": "EMBOSSED PATCHES JACKET",
+    "legacyId": 1,
+    "price": 799900,
+    "description": "Jacket made of cotton cut on the bias. Lapel collar and long sleeves with buttoned cuffs. Contrasting textured patch appliqué at front. Patch pockets with flaps at hip. Front button closure.",
+    "image": "source/Men/EMBOSSED PATCHES JACKET/00881310250-a1.jpg",
+    "images": [
+      {
+        "url": "/media/f431a9525509d382.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-a1.jpg"
+      },
+      {
+        "url": "/media/a266cffb8e882bdd.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-a2.jpg"
+      },
+      {
+        "url": "/media/e5a2f6f16b5dc65f.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-a3.jpg"
+      },
+      {
+        "url": "/media/387a3297fc9baf48.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-a4.jpg"
+      },
+      {
+        "url": "/media/c85928c4a7407ffa.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-e2.jpg"
+      },
+      {
+        "url": "/media/330c1807459361e7.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-e1.jpg"
+      },
+      {
+        "url": "/media/3b67f1bcf25d00e4.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-e3.jpg"
+      },
+      {
+        "url": "/media/92bcfe16e820e232.webp",
+        "alt": "embossed patches jacket",
+        "source": "source/Men/EMBOSSED PATCHES JACKET/00881310250-p.jpg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "prodect.js",
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "embossed-patches-jacket",
+    "gender": "men",
+    "category": "outerwear",
+    "color": "Original",
+    "reference": "source/Men/EMBOSSED PATCHES JACKET/New Text Document.txt"
+  },
+  {
+    "name": "LIGHTWEIGHT BOMBER JACKET",
+    "legacyId": 2,
+    "price": 649900,
+    "description": "Lightweight jacket made of technical fabric. Rib elastic collar and long sleeves. Welt pockets at hip. Interior pocket. Rib trim. Front zip closure.",
+    "image": "source/Men/LIGHTWEIGHT BOMBER JACKET/00881310250-e1.jpg",
+    "images": [
+      {
+        "url": "/media/0d03c2fca2a87a91.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/00881310250-e1.jpg"
+      },
+      {
+        "url": "/media/217b6087f4bd4230.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-a1.jpg"
+      },
+      {
+        "url": "/media/c45d223ac44ea4d1.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-e1.jpg"
+      },
+      {
+        "url": "/media/a04d5dbe9bd70296.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-e2.jpg"
+      },
+      {
+        "url": "/media/d5a0e9dfbdc25d46.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-e3.jpg"
+      },
+      {
+        "url": "/media/2c8df11682deecc2.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-a2.jpg"
+      },
+      {
+        "url": "/media/d19ad6b1ea37bb14.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-a3.jpg"
+      },
+      {
+        "url": "/media/9af15d5ebce5b76d.webp",
+        "alt": "lightweight bomber jacket",
+        "source": "source/Men/LIGHTWEIGHT BOMBER JACKET/04302400800-a4.jpg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "prodect.js",
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "lightweight-bomber-jacket",
+    "gender": "men",
+    "category": "outerwear",
+    "color": "Original",
+    "reference": "source/Men/LIGHTWEIGHT BOMBER JACKET/New Text Document.txt"
+  },
+  {
+    "name": "COMBINATION RIB KNIT DRESS",
+    "legacyId": 3,
+    "price": 589900,
+    "description": "Tailored V-neck dress with long sleeves. Contrasting ribbed details.",
+    "image": "source/Women/COMBINATION RIB KNIT DRESS/02488106684-e1.webp",
+    "images": [
+      {
+        "url": "/media/2f962864c1fc2bf9.webp",
+        "alt": "combination rib knit dress",
+        "source": "source/Women/COMBINATION RIB KNIT DRESS/02488106684-e1.webp"
+      },
+      {
+        "url": "/media/1165b915112318e9.webp",
+        "alt": "combination rib knit dress",
+        "source": "source/Women/COMBINATION RIB KNIT DRESS/02488106684-e2.webp"
+      },
+      {
+        "url": "/media/2809eedd0054532c.webp",
+        "alt": "combination rib knit dress",
+        "source": "source/Women/COMBINATION RIB KNIT DRESS/02488106684-e3.webp"
+      },
+      {
+        "url": "/media/98d96b1d57b6675b.webp",
+        "alt": "combination rib knit dress",
+        "source": "source/Women/COMBINATION RIB KNIT DRESS/02488106684-015-a3.webp"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "prodect.js",
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "combination-rib-knit-dress",
+    "gender": "women",
+    "category": "dresses",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "FLAT STRAP SHOES",
+    "legacyId": 4,
+    "price": 659900,
+    "description": "Flat shoes. Front strap with buckle. Rounded toe.Sole height: 0.4 inches (1 cm)",
+    "image": "source/Women/FLAT STRAP SHOES/12562410800-p.jpg",
+    "images": [
+      {
+        "url": "/media/933bf82adf91cb66.webp",
+        "alt": "flat strap shoes",
+        "source": "source/Women/FLAT STRAP SHOES/12562410800-p.jpg"
+      },
+      {
+        "url": "/media/bf08105447d4052c.webp",
+        "alt": "flat strap shoes",
+        "source": "source/Women/FLAT STRAP SHOES/12562410800-e2.jpg"
+      },
+      {
+        "url": "/media/ecf1825852f7f45f.webp",
+        "alt": "flat strap shoes",
+        "source": "source/Women/FLAT STRAP SHOES/12562410800-e3.jpg"
+      },
+      {
+        "url": "/media/9f970098b0f76a7a.webp",
+        "alt": "flat strap shoes",
+        "source": "source/Women/FLAT STRAP SHOES/12562410800-e4.jpg"
+      },
+      {
+        "url": "/media/c74fe03614301514.webp",
+        "alt": "flat strap shoes",
+        "source": "source/Women/FLAT STRAP SHOES/12562410800-e5.jpg"
+      },
+      {
+        "url": "/media/6a1953ef451e6ef9.webp",
+        "alt": "flat strap shoes",
+        "source": "source/Women/FLAT STRAP SHOES/12562410800-e1.webp"
+      }
+    ],
+    "sizes": [
+      "6",
+      "6½",
+      "7",
+      "8",
+      "9"
+    ],
+    "source": [
+      "prodect.js",
+      "women-shop.html",
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "flat-strap-shoes",
+    "gender": "women",
+    "category": "footwear",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "BELTED MINI DRESS",
+    "legacyId": 5,
+    "price": 579900,
+    "description": "Round neck mini dress with short sleeves. Matching interior lining. Thin belt with metal buckle. Invisible back zip closure.",
+    "image": "source/Women/BELTED MINI DRESS/09119556500-p.jpg",
+    "images": [
+      {
+        "url": "/media/5ae184e78e5ab124.webp",
+        "alt": "belted mini dress",
+        "source": "source/Women/BELTED MINI DRESS/09119556500-p.jpg"
+      },
+      {
+        "url": "/media/58658e13d6e98742.webp",
+        "alt": "belted mini dress",
+        "source": "source/Women/BELTED MINI DRESS/09119556500-e1.webp"
+      },
+      {
+        "url": "/media/25f991909456785f.webp",
+        "alt": "belted mini dress",
+        "source": "source/Women/BELTED MINI DRESS/09119556500-e2.jpg"
+      },
+      {
+        "url": "/media/ff627f4f0334cd0f.webp",
+        "alt": "belted mini dress",
+        "source": "source/Women/BELTED MINI DRESS/09119556500-e3.jpg"
+      },
+      {
+        "url": "/media/d51317e022abbb9b.webp",
+        "alt": "belted mini dress",
+        "source": "source/Women/BELTED MINI DRESS/09119556500-a1.jpg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "prodect.js",
+      "women-shop.html",
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "belted-mini-dress",
+    "gender": "women",
+    "category": "dresses",
+    "color": "Original",
+    "reference": "source/Women/BELTED MINI DRESS/New Text Document.txt"
+  },
+  {
+    "name": "POCKET CARGO PANTS",
+    "legacyId": 6,
+    "price": 499900,
+    "description": "Slim fit pants made of stretch fabric. Adjustable elastic waistband with drawstring. Front pockets and back welt pocket. Flap patch pockets at legs. Washed effect. Elastic cuffed hems.",
+    "image": "source/Men/POCKET CARGO PANTS/06786360505-p.jpg",
+    "images": [
+      {
+        "url": "/media/3e69496ac6a98a2a.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-p.jpg"
+      },
+      {
+        "url": "/media/4128e1effdbfe84c.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-e1.jpg"
+      },
+      {
+        "url": "/media/0b494975be566cb3.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-e2.jpg"
+      },
+      {
+        "url": "/media/6e9960a897f206f9.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-e3.jpg"
+      },
+      {
+        "url": "/media/41ced8ab9dc4141e.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-e4.jpg"
+      },
+      {
+        "url": "/media/adf1f4a1e0062b84.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-a2.jpg"
+      },
+      {
+        "url": "/media/d6750b6380737564.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-a3.jpg"
+      },
+      {
+        "url": "/media/69f27dfc0a2032c7.webp",
+        "alt": "pocket cargo pants",
+        "source": "source/Men/POCKET CARGO PANTS/06786360505-a4.jpg"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "source": [
+      "prodect.js",
+      "shop.html",
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "pocket-cargo-pants",
+    "gender": "men",
+    "category": "trousers",
+    "color": "Original",
+    "reference": "source/Men/POCKET CARGO PANTS/New Text Document.txt"
+  },
+  {
+    "name": "FULL LENGTH WIDE LEG JEANS",
+    "legacyId": 7,
+    "price": 889900,
+    "description": "HIGH-WAISTED - WIDE LEG - FULL LENGTH High-waisted five pocket jeans in rigid fabric. Belt loops. Long wide leg. Zip and metal button closure.",
+    "image": "source/Women/FULL LENGTH TRF HIGH RISE WIDE LEG JEANS/02569220400-017-p.jpg",
+    "images": [
+      {
+        "url": "/media/a161dfeb0c77ab18.webp",
+        "alt": "full length wide leg jeans",
+        "source": "source/Women/FULL LENGTH TRF HIGH RISE WIDE LEG JEANS/02569220400-017-p.jpg"
+      },
+      {
+        "url": "/media/ed4fa7d89160af8e.webp",
+        "alt": "full length wide leg jeans",
+        "source": "source/Women/FULL LENGTH TRF HIGH RISE WIDE LEG JEANS/02569220400-017-a2.jpg"
+      },
+      {
+        "url": "/media/a58e5e15dde6ca44.webp",
+        "alt": "full length wide leg jeans",
+        "source": "source/Women/FULL LENGTH TRF HIGH RISE WIDE LEG JEANS/06688220400-e1.jpg"
+      },
+      {
+        "url": "/media/ee595de090ba74dd.webp",
+        "alt": "full length wide leg jeans",
+        "source": "source/Women/FULL LENGTH TRF HIGH RISE WIDE LEG JEANS/06688220400-e2.jpg"
+      },
+      {
+        "url": "/media/6ea530bcbed4605d.webp",
+        "alt": "full length wide leg jeans",
+        "source": "source/Women/FULL LENGTH TRF HIGH RISE WIDE LEG JEANS/06688220400-e4.jpg"
+      }
+    ],
+    "sizes": [
+      "25",
+      "26",
+      "28",
+      "30",
+      "34"
+    ],
+    "source": [
+      "prodect.js",
+      "women-shop.html",
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "full-length-wide-leg-jeans",
+    "gender": "women",
+    "category": "trousers",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "LINEN SHIRT",
+    "price": 479900,
+    "image": "source/Men/LINEN SHIRT/03090470052-e1.jpg",
+    "images": [
+      {
+        "url": "/media/36e3812b995bfb39.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470052-e1.jpg"
+      },
+      {
+        "url": "/media/2efd5e94c4e9ca83.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470052-a1.jpg"
+      },
+      {
+        "url": "/media/0633a7b0433d68fc.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470250-a1.jpg"
+      },
+      {
+        "url": "/media/ecce0d60dcfd8b71.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470250-a2.jpg"
+      },
+      {
+        "url": "/media/bc7550d54779adea.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470428-a1.jpg"
+      },
+      {
+        "url": "/media/eaf797e4e8f24705.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470903-a3.jpg"
+      },
+      {
+        "url": "/media/0a87c5ab4b9feb06.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/03090470903-a4.jpg"
+      },
+      {
+        "url": "/media/b94c5b33e948aa6c.webp",
+        "alt": "linen shirt",
+        "source": "source/Men/LINEN SHIRT/04378010519-a1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "linen-shirt",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "tops",
+    "color": "Original",
+    "reference": "source/Men/LINEN SHIRT/New Text Document.txt"
+  },
+  {
+    "name": "CONTRAST COLLAR POLO SHIRT",
+    "price": 529900,
+    "image": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320054-e1.jpg",
+    "images": [
+      {
+        "url": "/media/eac36d4c54fc5c6b.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320054-e1.jpg"
+      },
+      {
+        "url": "/media/e98eeb1d6cd29a6d.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320054-a1.jpg"
+      },
+      {
+        "url": "/media/b1ea26422f0f36ed.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320054-a2.jpg"
+      },
+      {
+        "url": "/media/0910c357f472cf46.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320054-a4.jpg"
+      },
+      {
+        "url": "/media/df30f44918389940.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320066-a1.jpg"
+      },
+      {
+        "url": "/media/381fd5855bce0c6f.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320066-a2.jpg"
+      },
+      {
+        "url": "/media/893228ffeb94a1d5.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320066-a3.jpg"
+      },
+      {
+        "url": "/media/c5c5b6f0c485f82c.webp",
+        "alt": "contrast collar polo shirt",
+        "source": "source/Men/CONTRAST COLLAR POLO SHIRT/00526320066-a4.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "contrast-collar-polo-shirt",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "tops",
+    "color": "Navy blue",
+    "reference": "source/Men/CONTRAST COLLAR POLO SHIRT/New Text Document.txt"
+  },
+  {
+    "name": "LEATHER SNEAKERS",
+    "price": 999900,
+    "image": "source/Men/LEATHER SNEAKERS/12214420001-e1.jpg",
+    "images": [
+      {
+        "url": "/media/053cdd4d4eeba3ab.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-e1.jpg"
+      },
+      {
+        "url": "/media/0a93aa3c27c55a3e.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-a1.jpg"
+      },
+      {
+        "url": "/media/754f246cd11a2389.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-a2.jpg"
+      },
+      {
+        "url": "/media/915c0b9ec9377fd3.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-a3.jpg"
+      },
+      {
+        "url": "/media/5d04fbf737a9c869.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-a4.jpg"
+      },
+      {
+        "url": "/media/2e60f33c9a2339a3.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-e2.jpg"
+      },
+      {
+        "url": "/media/035aa426f7b0702d.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-e3.jpg"
+      },
+      {
+        "url": "/media/9ee879df3d434dae.webp",
+        "alt": "leather sneakers",
+        "source": "source/Men/LEATHER SNEAKERS/12214420001-e4.jpg"
+      }
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "leather-sneakers",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns\r\nWhite | 2214/420",
+    "gender": "men",
+    "category": "footwear",
+    "color": "Original",
+    "reference": "source/Men/LEATHER SNEAKERS/New Text Document.txt"
+  },
+  {
+    "name": "LEATHER CHELSEA BOOTS",
+    "price": 1299900,
+    "image": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-e1.jpg",
+    "images": [
+      {
+        "url": "/media/ad309051a1e69045.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-e1.jpg"
+      },
+      {
+        "url": "/media/7ef0a125f0669e87.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-a1.jpg"
+      },
+      {
+        "url": "/media/dbc5263d3374a9ac.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-a2.jpg"
+      },
+      {
+        "url": "/media/ee6d5c68e4fe0631.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-a3.jpg"
+      },
+      {
+        "url": "/media/096f507a80bd2d70.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-a4.jpg"
+      },
+      {
+        "url": "/media/3a01ef4806f5b8b3.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-e2.jpg"
+      },
+      {
+        "url": "/media/ac2271dfdd126cca.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-e3.jpg"
+      },
+      {
+        "url": "/media/ff128d9d2d74a35a.webp",
+        "alt": "leather chelsea boots",
+        "source": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/12002420107-e4.jpg"
+      }
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "leather-chelsea-boots",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "footwear",
+    "color": "Original",
+    "reference": "source/Men/POINTED TOE LEATHER CHELSEA BOOTS/New Text Document.txt"
+  },
+  {
+    "name": "QUARTER ZIP SWEATSHIRT",
+    "price": 719900,
+    "image": "source/Men/QUARTER ZIP SWEATSHIRT/06462333800-e1.jpg",
+    "images": [
+      {
+        "url": "/media/f8affc772cc5bbe5.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333800-e1.jpg"
+      },
+      {
+        "url": "/media/bfc20b802f424b53.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333251-a1.jpg"
+      },
+      {
+        "url": "/media/eefb6334c27cce23.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333251-a2.jpg"
+      },
+      {
+        "url": "/media/44f79b20b140a3f3.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333251-a3.jpg"
+      },
+      {
+        "url": "/media/6c12b8fe8618e3ad.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333251-a4.jpg"
+      },
+      {
+        "url": "/media/bc1dd7f8128d525a.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333779-a1.jpg"
+      },
+      {
+        "url": "/media/463a705a04ea9110.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333779-a2.jpg"
+      },
+      {
+        "url": "/media/aa7ef94db6bc805d.webp",
+        "alt": "quarter zip sweatshirt",
+        "source": "source/Men/QUARTER ZIP SWEATSHIRT/06462333779-a3.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "quarter-zip-sweatshirt",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "tops",
+    "color": "Original",
+    "reference": "source/Men/QUARTER ZIP SWEATSHIRT/New Text Document.txt"
+  },
+  {
+    "name": "SKINNY FIT JEANS",
+    "price": 839900,
+    "image": "source/Men/SKINNY FIT JEANS/06045449800-e1.jpg",
+    "images": [
+      {
+        "url": "/media/ed9bb38861101be5.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/06045449800-e1.jpg"
+      },
+      {
+        "url": "/media/0ab6d3841bc94475.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/05585449800-a1.jpg"
+      },
+      {
+        "url": "/media/79abd6689fc835bb.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/05585449800-a2.jpg"
+      },
+      {
+        "url": "/media/cffad02a83bbda86.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/05585449800-a3.jpg"
+      },
+      {
+        "url": "/media/cf0f2d3add09f3bd.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/05585449800-a4.jpg"
+      },
+      {
+        "url": "/media/c958b1ab34b1fcba.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/06045449407-a1.jpg"
+      },
+      {
+        "url": "/media/2a66ae0e9c095405.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/06045449407-a2.jpg"
+      },
+      {
+        "url": "/media/052dbf1ce68c762c.webp",
+        "alt": "skinny fit jeans",
+        "source": "source/Men/SKINNY FIT JEANS/06045449407-a3.jpg"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "skinny-fit-jeans",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "trousers",
+    "color": "Original",
+    "reference": "source/Men/SKINNY FIT JEANS/New Text Document.txt"
+  },
+  {
+    "name": "TEXTURED MESH TEXT T-SHIRT",
+    "price": 329900,
+    "image": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-e1.jpg",
+    "images": [
+      {
+        "url": "/media/7d57c5210e6d7cc0.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-e1.jpg"
+      },
+      {
+        "url": "/media/10364a0026365cb5.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-a1.jpg"
+      },
+      {
+        "url": "/media/81479173c15cee9b.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-a2.jpg"
+      },
+      {
+        "url": "/media/c5c46f9cd35531f4.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-a3.jpg"
+      },
+      {
+        "url": "/media/534ae1ac3096ed4a.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-a4.jpg"
+      },
+      {
+        "url": "/media/ada36d90b15ea85d.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-e2.jpg"
+      },
+      {
+        "url": "/media/96fdf8a91a4f0475.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-e3.jpg"
+      },
+      {
+        "url": "/media/a44c51f35869f1d6.webp",
+        "alt": "textured mesh text t-shirt",
+        "source": "source/Men/TEXTURED MESH TEXT T-SHIRT/05039320400-p.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "textured-mesh-text-t-shirt",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "tops",
+    "color": "Original",
+    "reference": "source/Men/TEXTURED MESH TEXT T-SHIRT/New Text Document.txt"
+  },
+  {
+    "name": "TREADED CHELSEA BOOTS",
+    "price": 1349900,
+    "image": "source/Men/TREADED CHELSEA BOOTS/12004420800-e1.jpg",
+    "images": [
+      {
+        "url": "/media/d79093e901c73f0c.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-e1.jpg"
+      },
+      {
+        "url": "/media/b8896d64ec9a066b.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-a1.jpg"
+      },
+      {
+        "url": "/media/effe4188f026c45d.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-a2.jpg"
+      },
+      {
+        "url": "/media/4eca48fd11d679f1.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-a3.jpg"
+      },
+      {
+        "url": "/media/357f6ecb06034a5f.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-a4.jpg"
+      },
+      {
+        "url": "/media/2794518902c1bd3d.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-e2.jpg"
+      },
+      {
+        "url": "/media/d82a576f5df2af22.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-e3.jpg"
+      },
+      {
+        "url": "/media/e7d25c026671c18a.webp",
+        "alt": "treaded chelsea boots",
+        "source": "source/Men/TREADED CHELSEA BOOTS/12004420800-e4.jpg"
+      }
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "treaded-chelsea-boots",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns\r\nBlack | 2004/420",
+    "gender": "men",
+    "category": "footwear",
+    "color": "Original",
+    "reference": "source/Men/TREADED CHELSEA BOOTS/New Text Document.txt"
+  },
+  {
+    "name": "VISCOSE BLEND KNIT POLO SHIRT",
+    "price": 299900,
+    "image": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417401-e1.jpg",
+    "images": [
+      {
+        "url": "/media/e0e1fa82d73836bb.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417401-e1.jpg"
+      },
+      {
+        "url": "/media/dc58a612eb440165.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417251-a4.jpg"
+      },
+      {
+        "url": "/media/64e36386a3a33ef6.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417401-a5.jpg"
+      },
+      {
+        "url": "/media/5f9e2498fc51425d.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417431-a6.jpg"
+      },
+      {
+        "url": "/media/66ed2e6ca4b3fa0b.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417800-a6.jpg"
+      },
+      {
+        "url": "/media/1c9eb51bd9b09947.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417818-a1.jpg"
+      },
+      {
+        "url": "/media/46a34f2e2c273b6f.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417818-a2.jpg"
+      },
+      {
+        "url": "/media/d4b9fcb1b7e0663f.webp",
+        "alt": "viscose blend knit polo shirt",
+        "source": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/00304417818-a3.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "viscose-blend-knit-polo-shirt",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "tops",
+    "color": "Charcoal gray",
+    "reference": "source/Men/VISCOSE BLEND KNIT POLO SHIRT/New Text Document.txt"
+  },
+  {
+    "name": "GEMETRIC CROCHET SHIRT",
+    "price": 569900,
+    "image": "source/Men/GEMETRIC CROCHET SHIRT/05584341330-e1.jpg",
+    "images": [
+      {
+        "url": "/media/62c8f5f71605e2fd.webp",
+        "alt": "gemetric crochet shirt",
+        "source": "source/Men/GEMETRIC CROCHET SHIRT/05584341330-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "gemetric-crochet-shirt",
+    "description": "Gemetric crochet shirt. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "men",
+    "category": "tops",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "UTILITY POCKET JEANS",
+    "price": 699900,
+    "image": "source/Men/UTILITY POCKET JEANS/06987310505-e1.webp",
+    "images": [
+      {
+        "url": "/media/4d616004dff3a4ab.webp",
+        "alt": "utility pocket jeans",
+        "source": "source/Men/UTILITY POCKET JEANS/06987310505-e1.webp"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "utility-pocket-jeans",
+    "description": "Utility pocket jeans. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "men",
+    "category": "trousers",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "PATCHES HOODED JACKET",
+    "price": 799900,
+    "image": "source/Men/PATCHES HOODED JACKET/03833412800-e1.webp",
+    "images": [
+      {
+        "url": "/media/c72c0dacba3b06a2.webp",
+        "alt": "patches hooded jacket",
+        "source": "source/Men/PATCHES HOODED JACKET/03833412800-e1.webp"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "patches-hooded-jacket",
+    "description": "Patches hooded jacket. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "men",
+    "category": "outerwear",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "HOODIE SWEATSHIRT",
+    "price": 579900,
+    "image": "source/Men/HOODIE SWEATSHIRT/04393350805-e1.jpg",
+    "images": [
+      {
+        "url": "/media/e89014caae26928a.webp",
+        "alt": "hoodie sweatshirt",
+        "source": "source/Men/HOODIE SWEATSHIRT/04393350805-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source": [
+      "shop.html"
+    ],
+    "featured": false,
+    "slug": "hoodie-sweatshirt",
+    "description": "Hoodie sweatshirt. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "men",
+    "category": "tops",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "SHORT DRESS WITH BOWS",
+    "price": 599900,
+    "image": "source/Women/SHORT DRESS WITH BOWS/03152278800-e1.webp",
+    "images": [
+      {
+        "url": "/media/e76a8a40e8612388.webp",
+        "alt": "short dress with bows",
+        "source": "source/Women/SHORT DRESS WITH BOWS/03152278800-e1.webp"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html",
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "short-dress-with-bows",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "women",
+    "category": "dresses",
+    "color": "Black",
+    "reference": "source/Women/SHORT DRESS WITH BOWS/New Text Document.txt"
+  },
+  {
+    "name": "RUCHED SHOULDER BAG",
+    "price": 679900,
+    "image": "source/Women/RUCHED SHOULDER BAG/16648410624-e1.webp",
+    "images": [
+      {
+        "url": "/media/cd2bc073b0ddbc4d.webp",
+        "alt": "ruched shoulder bag",
+        "source": "source/Women/RUCHED SHOULDER BAG/16648410624-e1.webp"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "source": [
+      "women-shop.html",
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "ruched-shoulder-bag",
+    "description": "Ruched shoulder bag. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "accessories",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "ALPACA AND WOOL BLEND SWEATER",
+    "price": 499900,
+    "image": "source/Women/ALPACA AND WOOL BLEND SWEATER/03519117082-e1.jpg",
+    "images": [
+      {
+        "url": "/media/e4b6408617f7dfd6.webp",
+        "alt": "alpaca and wool blend sweater",
+        "source": "source/Women/ALPACA AND WOOL BLEND SWEATER/03519117082-e1.jpg"
+      },
+      {
+        "url": "/media/c49d9cf4f0017244.webp",
+        "alt": "alpaca and wool blend sweater",
+        "source": "source/Women/ALPACA AND WOOL BLEND SWEATER/03519117082-p.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "alpaca-and-wool-blend-sweater",
+    "description": "Alpaca and wool blend sweater. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "tops",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "HYPNOTIC VANILLA BLOOM EDP 80 ML",
+    "price": 699900,
+    "image": "source/Women/HYPNOTIC VANILLA BLOOM EDP 80 ML (2.71 FL. OZ)/20110641999-e1.jpg",
+    "images": [
+      {
+        "url": "/media/c9becf24a09d975a.webp",
+        "alt": "hypnotic vanilla bloom edp 80 ml",
+        "source": "source/Women/HYPNOTIC VANILLA BLOOM EDP 80 ML (2.71 FL. OZ)/20110641999-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "80 ML"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "hypnotic-vanilla-bloom-edp-80-ml",
+    "description": "Hypnotic vanilla bloom edp 80 ml. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "accessories",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "SHORT SEQUIN DRESS",
+    "price": 849900,
+    "image": "source/Women/SHORT SEQUIN DRESS/01067472809-e1.jpg",
+    "images": [
+      {
+        "url": "/media/95cf9ecf21a8a31e.webp",
+        "alt": "short sequin dress",
+        "source": "source/Women/SHORT SEQUIN DRESS/01067472809-e1.jpg"
+      },
+      {
+        "url": "/media/3c310a6a905ad7f4.webp",
+        "alt": "short sequin dress",
+        "source": "source/Women/SHORT SEQUIN DRESS/01067472809-p.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "short-sequin-dress",
+    "description": "Short sequin dress. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "dresses",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "METALLIC T-SHIRT",
+    "price": 329900,
+    "image": "source/Women/METALLIC T-SHIRT/00264535717-e1.jpg",
+    "images": [
+      {
+        "url": "/media/e0d173a612bfe570.webp",
+        "alt": "metallic t-shirt",
+        "source": "source/Women/METALLIC T-SHIRT/00264535717-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "metallic-t-shirt",
+    "description": "Metallic t-shirt. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "tops",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "FAUX FUR SHORT COAT",
+    "price": 529900,
+    "image": "source/Women/FAUX FUR SHORT COAT/04369101706-e1.jpg",
+    "images": [
+      {
+        "url": "/media/63b2168762b64453.webp",
+        "alt": "faux fur short coat",
+        "source": "source/Women/FAUX FUR SHORT COAT/04369101706-e1.jpg"
+      },
+      {
+        "url": "/media/cacdea34efabad9e.webp",
+        "alt": "faux fur short coat",
+        "source": "source/Women/FAUX FUR SHORT COAT/04369101706-1-a1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "faux-fur-short-coat",
+    "description": "Faux fur short coat. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "outerwear",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "OVAL HEELED METALLIC SANDALS",
+    "price": 569900,
+    "image": "source/Women/OVAL HEELED METALLIC SANDALS/11353410091-e1.jpg",
+    "images": [
+      {
+        "url": "/media/a52d194c53ebe61e.webp",
+        "alt": "oval heeled metallic sandals",
+        "source": "source/Women/OVAL HEELED METALLIC SANDALS/11353410091-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "6½",
+      "7½",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "oval-heeled-metallic-sandals",
+    "description": "Oval heeled metallic sandals. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "footwear",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "BELTED SOFT FEEL DRESS",
+    "price": 569900,
+    "image": "source/Women/BELTED SOFT FEEL DRESS/05039393700-e1.jpg",
+    "images": [
+      {
+        "url": "/media/af8376b64b25973c.webp",
+        "alt": "belted soft feel dress",
+        "source": "source/Women/BELTED SOFT FEEL DRESS/05039393700-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "belted-soft-feel-dress",
+    "description": "Belted soft feel dress. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "dresses",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "LTHR BCKL BTS 13",
+    "price": 1459900,
+    "image": "source/Women/LTHR BCKL BTS 13/14005410022-e1.jpg",
+    "images": [
+      {
+        "url": "/media/12851c54658f4e9d.webp",
+        "alt": "lthr bckl bts 13",
+        "source": "source/Women/LTHR BCKL BTS 13/14005410022-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "6½",
+      "7½",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "lthr-bckl-bts-13",
+    "description": "Lthr bckl bts 13. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "tops",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "LTHR MX SHPPR 13",
+    "price": 1899900,
+    "image": "source/Women/LTHR MX SHPPR 13/16118410624-e1.jpg",
+    "images": [
+      {
+        "url": "/media/227c2e89493b73d3.webp",
+        "alt": "lthr mx shppr 13",
+        "source": "source/Women/LTHR MX SHPPR 13/16118410624-e1.jpg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "lthr-mx-shppr-13",
+    "description": "Lthr mx shppr 13. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "tops",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "PRINTED TULLE DRESS",
+    "price": 569900,
+    "image": "source/Women/PRINTED TULLE DRESS/05039397730-e1.jpg",
+    "images": [
+      {
+        "url": "/media/c7948e00ae7a422c.webp",
+        "alt": "printed tulle dress",
+        "source": "source/Women/PRINTED TULLE DRESS/05039397730-e1.jpg"
+      },
+      {
+        "url": "/media/409e09f6497790b8.webp",
+        "alt": "printed tulle dress",
+        "source": "source/Women/PRINTED TULLE DRESS/05039397730-p.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source": [
+      "women-shop.html"
+    ],
+    "featured": false,
+    "slug": "printed-tulle-dress",
+    "description": "Printed tulle dress. Explore the original COZZY collection; select an available size for stock information.",
+    "gender": "women",
+    "category": "dresses",
+    "color": "Original",
+    "reference": null
+  },
+  {
+    "name": "STRAIGHT FIT JEANS",
+    "price": 599900,
+    "image": "source/Men/New Arivel/STRAIGHT FIT JEANS/08062400407-e1.webp",
+    "images": [
+      {
+        "url": "/media/4b77e0d7505f6b1b.webp",
+        "alt": "straight fit jeans",
+        "source": "source/Men/New Arivel/STRAIGHT FIT JEANS/08062400407-e1.webp"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "source": [
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "straight-fit-jeans",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "trousers",
+    "color": "Blue",
+    "reference": "source/Men/New Arivel/STRAIGHT FIT JEANS/New Text Document.txt"
+  },
+  {
+    "name": "TEXTURED 100% SILK TIE",
+    "price": 279900,
+    "image": "source/Men/New Arivel/TEXTURED SILK TIE/09569590800-e1.webp",
+    "images": [
+      {
+        "url": "/media/38b3218ee255ef3c.webp",
+        "alt": "textured 100% silk tie",
+        "source": "source/Men/New Arivel/TEXTURED SILK TIE/09569590800-e1.webp"
+      }
+    ],
+    "sizes": [
+      "M"
+    ],
+    "source": [
+      "hero.html"
+    ],
+    "featured": true,
+    "slug": "textured-100-silk-tie",
+    "description": "Check in-store availability\r\nShipping, Exchanges and Returns",
+    "gender": "men",
+    "category": "accessories",
+    "color": "Original",
+    "reference": "source/Men/New Arivel/TEXTURED SILK TIE/New Text Document.txt"
+  }
+]

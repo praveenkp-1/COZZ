@@ -1,0 +1,48 @@
+{
+  "name": "cozzy",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "engines": {
+    "node": "\u003e=22.18.0"
+  },
+  "scripts": {
+    "dev": "concurrently -k -n api,web \"npm run dev -w backend\" \"npm run dev -w frontend\"",
+    "assets": "node scripts/build-assets.mjs",
+    "db:local": "node scripts/local-db.mjs",
+    "db:generate": "npm run db:generate -w backend",
+    "db:migrate": "npm run db:migrate -w backend",
+    "db:seed": "npm run db:seed -w backend",
+    "admin:create": "npm run admin:create -w backend",
+    "typecheck": "npm run typecheck --workspaces",
+    "build": "npm run assets \u0026\u0026 npm run db:generate \u0026\u0026 npm run build -w frontend \u0026\u0026 npm run build -w backend",
+    "start": "npm run start -w backend",
+    "test": "vitest run",
+    "test:integration": "node scripts/integration-test.mjs",
+    "test:e2e": "node scripts/e2e-test.mjs",
+    "check": "npm run typecheck \u0026\u0026 npm test \u0026\u0026 npm run build",
+    "format": "prettier --write frontend/src backend/src backend/prisma shared scripts docs *.json *.md"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.0.0",
+    "@types/supertest": "^6.0.3",
+    "concurrently": "^9.2.0",
+    "embedded-postgres": "18.4.0-beta.17",
+    "prettier": "^3.6.2",
+    "sharp": "^0.35.5",
+    "supertest": "^7.1.4",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.3",
+    "vitest": "^5.0.3",
+    "prisma": "^7.0.0"
+  },
+  "overrides": {
+    "deepmerge-ts": "^8.0.2",
+    "mysql2": "^3.24.5"
+  }
+}

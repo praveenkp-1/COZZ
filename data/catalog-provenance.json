@@ -1,0 +1,35 @@
+{
+  "baselineCommit": "a6dea05",
+  "catalog": "data/products.json",
+  "canonicalSnapshotSha256": "6534a43d75fb1875c66527081d832891d238db28c55e8e7a27d31a31064cce8f",
+  "products": 34,
+  "priceConflicts": [
+    {
+      "slug": "short-dress-with-bows",
+      "currency": "LKR",
+      "retainedMinorUnits": 599900,
+      "originalHomepageMinorUnits": 869900,
+      "decision": "The original catalog price takes precedence. Owner review remains required before launch."
+    }
+  ],
+  "supplierCaptureNotes": [
+    {
+      "slug": "lightweight-bomber-jacket",
+      "referencePriceLabel": "$ 65.90",
+      "currencyConfirmed": false,
+      "colorLabel": "Black | 4302/400",
+      "visibleSizes": ["S", "M", "L", "XL", "XXL"],
+      "reference": "source/Men/LIGHTWEIGHT BOMBER JACKET/New Text Document.txt"
+    },
+    {
+      "slug": "quarter-zip-sweatshirt",
+      "referencePriceLabel": "$ 59.90",
+      "currencyConfirmed": false,
+      "colorLabels": ["Mid-gray | 6462/333", "Black | 6462/333"],
+      "visibleSizes": ["S", "M", "L", "XL", "XXL"],
+      "fitLabel": "This item runs small.",
+      "reference": "source/Men/QUARTER ZIP SWEATSHIRT/New Text Document.txt"
+    }
+  ],
+  "note": "Supplier capture notes retain information from removed browser screenshots. They are unverified reference material, not storefront prices, stock, approved size guidance or catalog variants. Original captures and legacy page provenance remain recoverable from the baseline Git commit."
+}

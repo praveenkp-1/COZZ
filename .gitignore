@@ -1,0 +1,15 @@
+node_modules/
+dist/
+**/dist/
+build/
+backend/src/generated/
+frontend/public/media/
+.env
+.env.*
+!.env.example
+!.env.production.example
+.local/
+test-results/
+playwright-report/
+coverage/
+*.log

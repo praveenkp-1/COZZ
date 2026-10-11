@@ -1,0 +1,43 @@
+{
+  "name": "@cozzy/backend",
+  "private": true,
+  "type": "module",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "start": "node dist/backend/src/server.js",
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate deploy",
+    "db:seed": "tsx prisma/seed.ts",
+    "admin:create": "tsx scripts/create-admin.ts"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "@prisma/client": "^7.0.0",
+    "@prisma/adapter-pg": "^7.0.0",
+    "pg": "^8.16.0",
+    "zod": "^4.1.0",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "helmet": "^8.1.0",
+    "express-rate-limit": "^8.1.0",
+    "pino": "^9.14.0",
+    "pino-http": "^10.5.0",
+    "nodemailer": "^10.1.0",
+    "multer": "^2.0.2",
+    "cloudinary": "^2.7.0",
+    "sharp": "^0.35.5",
+    "dotenv": "^17.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/cookie-parser": "^1.4.9",
+    "@types/cors": "^2.8.19",
+    "@types/pg": "^8.15.0",
+    "@types/nodemailer": "^7.0.2",
+    "@types/multer": "^2.0.0"
+  }
+}

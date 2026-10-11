@@ -1,0 +1,8 @@
+node_modules/
+backend/src/generated/
+**/dist/
+frontend/public/media/
+source/
+.local/
+data/products.json
+package-lock.json

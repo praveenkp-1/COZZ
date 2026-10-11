@@ -1,0 +1,22 @@
+services:
+  app:
+    image: ${COZZY_IMAGE:?Set your published COZZY image}
+    restart: unless-stopped
+    env_file: ../.env.production
+    expose: ["4000"]
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    environment:
+      COZZY_DOMAIN: ${COZZY_DOMAIN:?Set your store domain}
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      app:
+        condition: service_healthy
+volumes:
+  caddy_data:
+  caddy_config:
