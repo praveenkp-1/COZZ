@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import * as helmetModule from "helmet";
+import type { HelmetOptions } from "helmet";
 import cookieParser from "cookie-parser";
 import { rateLimit } from "express-rate-limit";
 import { pinoHttp } from "pino-http";
@@ -15,6 +16,11 @@ import { catalogRouter } from "./routes/catalog.js";
 import { customerRouter } from "./routes/customer.js";
 import { adminRouter } from "./routes/admin.js";
 import { processNotification } from "./services/orders.js";
+// Helmet middleware compatibility
+const applyHelmet = helmetModule.default as unknown as (
+  options?: HelmetOptions
+) => express.RequestHandler;
+
 export function createApp() {
   const app = express();
   app.disable("x-powered-by");
@@ -34,7 +40,7 @@ export function createApp() {
     }),
   );
   app.use(
-  helmetModule.default({
+  applyHelmet({
       contentSecurityPolicy: {
         directives: {
           defaultSrc: ["'self'"],
