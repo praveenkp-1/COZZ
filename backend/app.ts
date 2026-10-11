@@ -1,6 +1,7 @@
+import express from "express";
 import { createApp, errorHandler } from "./src/app.js";
 
-const app = createApp();
+const app: ReturnType<typeof express> = createApp();
 
 app.use(errorHandler);
 
