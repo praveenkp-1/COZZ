@@ -2,6 +2,7 @@ import { config } from "dotenv";
 import { z } from "zod";
 config({ path: [".env", "../.env"], quiet: true });
 const schema = z.object({
+  PORTFOLIO_DEMO: z.enum(["true", "false"]).default("false"),
   NODE_ENV: z
     .enum(["development", "test", "production"])
     .default("development"),
@@ -31,6 +32,10 @@ if (env.NODE_ENV === "production") {
   for (const value of [env.APP_ORIGIN, env.PUBLIC_API_ORIGIN])
     if (!value.startsWith("https://") || /localhost|127\.0\.0\.1/.test(value))
       throw new Error("Production requires public HTTPS origins.");
-  if (!env.SMTP_HOST || !env.MAIL_FROM)
-    throw new Error("Production requires configured transactional email.");
+    if (
+  env.PORTFOLIO_DEMO !== "true" &&
+  (!env.SMTP_HOST || !env.MAIL_FROM)
+  ) {
+  throw new Error("Production requires configured transactional email.");
+}
 }
